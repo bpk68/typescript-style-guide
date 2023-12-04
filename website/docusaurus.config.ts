@@ -75,7 +75,7 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/mkosir/typescript-style-guide',
+          href: 'https://github.com/bpk68/typescript-style-guide',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,6 +89,7 @@ const config: Config = {
       theme: themes.github,
       darkTheme: themes.okaidia,
     },
+    // TODO: will need to update this to personal Algolia
     algolia: {
       // Public application ID provided by Algolia
       appId: '3CBFIG0U2G',
