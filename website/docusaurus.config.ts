@@ -8,13 +8,13 @@ const config: Config = {
   tagline: 'TypeScript Style Guide',
   favicon: 'img/favicon.ico',
 
-  url: 'https://mkosir.github.io',
+  url: 'https://bpk68.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/typescript-style-guide',
 
   // GitHub pages deployment config.
-  organizationName: 'mkosir',
+  organizationName: 'bpk68',
   projectName: 'typescript-style-guide',
 
   trailingSlash: false,
